@@ -16,3 +16,4 @@ abstract
 
 
 //phpinfo();
+www.syj.com www.875.cn
