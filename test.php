@@ -17,3 +17,4 @@ abstract
 
 //phpinfo();
 www.syj.com www.875.cn
+www.tonglukuaijian.com  www.malls.tm
